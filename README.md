@@ -1,7 +1,11 @@
-*fwethington0001@gmail.com
-*Fredrick Wethington
-*Code Louisville
-*Data Analytics Level 1 Wednesday
+*fwethington0001@gmail.com  
+
+*Fredrick Wethington  
+
+*Code Louisville  
+
+*Data Analytics Level 1 Wednesday  
+
 
 The objective of my project plan is to create a recommendation system that will recommend movies to the user.  This will be done by following the project steps that were given to us during our data analytics course.
 
